@@ -29,10 +29,9 @@ Execute the program using runserver command.
 ## PROGRAM
 ```
 <html>
-    <head>  
-
+    <head>
     </head>
-    <title> SLOT TIME TABLE</title>7
+    <title>SLOT TIME TABLE</title>7
     <body>
         <center> <img src="logo.png" height="150" width="900"></center>
         <table align="center" cellspacing="1" cellpadding="3" border="3" width="600">
@@ -44,9 +43,7 @@ Execute the program using runserver command.
                 <td>Wednesday</td>
                 <td>Thursday</td>
                 <td>Friday</td>
-                <td>Saturday</td>
-            
-                
+                <td>Saturday</td>    
             </tr>
             <tr align="center">
                 <td bgcolor="yellow">8-10</td>
@@ -68,10 +65,7 @@ Execute the program using runserver command.
             </tr>
             <tr align="center">
                 <td bgcolor="yellow">12-1</td>
-                <td bgcolor="cyan"colspan="6" align="center">LUNCH</td>
-
-
-                
+                <td bgcolor="cyan"colspan="6" align="center">LUNCH</td>      
             </tr>
             <tr align="center">
                 <td bgcolor="yellow">1-3</td>
@@ -91,19 +85,13 @@ Execute the program using runserver command.
                 <td>ITDS</td>
                 <td>FREE SLOT</td>
             </tr>
-
-            
-            
-            
         </table>
-
         <br>
         <table align="center" cellspacing="2" cellpadding="4" border="5">
             <tr bgcolor="yellow">
                 <td>S.NO</td>
                 <td>SUBJECT NAME</td>
                 <td>SUBJECT CODE</td>
-
             </tr>
             <tr>
                 <td>1</td>
@@ -120,8 +108,6 @@ Execute the program using runserver command.
                 <td>FUNDAMENTALS OF WEB APPLICATION (FWAD)</td>
                 <td>19AI414</td>
             </tr>
-
-
         </table>
         </br>
     </body>
@@ -129,7 +115,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-!(image.png)
+![Slot Image](static/image.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
